@@ -2,6 +2,9 @@
 
 # C extensions
 *.so
+*.log
+*.ini
+*.note
 
 # Packages
 *.egg
